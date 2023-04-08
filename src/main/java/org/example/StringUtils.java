@@ -2,7 +2,7 @@ package org.example;
 
 public class StringUtils {
 
-    // function used to reverse the string.
+    // function used to reverse the strings.
     public String reverse(String stringToReverse)
     {
         if(stringToReverse == null || stringToReverse == "")

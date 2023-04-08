@@ -56,7 +56,7 @@ public class StringUtilsTest
         assertEquals(false, isPalindromeOrNot);
     }
 
-    // testing isPalindrome method with empty string.
+    // testing isPalindrome method with empty strings.
     @Test
     public void testIsPalindromeShouldReturnTrueOrFalse_test3(){
         Boolean isPalindromeOrNot = stringUtils.isPalindrome("");
